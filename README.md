@@ -1,6 +1,6 @@
 <h1>Climate Analyzer React JS Project</h1>
 
-To access the Climate Analyzer application, click [here](https://climateanalyzer.netlify.app/) after starting the development server.
+To access the Climate Analyzer application, click [here](https://climateanalyzer.netlify.app/).
 
 
 Climate Analyzer
